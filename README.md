@@ -16,3 +16,5 @@ yarn parcel src/index.html
 
 Running these commands will run a local webserver with Parcel and hot reloading
 enabled.
+
+![Screenshot](screenshot.png)
