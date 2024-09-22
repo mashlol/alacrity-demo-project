@@ -3,7 +3,7 @@ import { InGameUI } from "./InGameUI";
 import { Settings } from "./Settings";
 import { MainMenu } from "./MainMenu";
 
-export default function StartMenu() {
+export default function App() {
   const [inSettings, setInSettings] = useState(false);
   const [inGame, setInGame] = useState(false);
   const [score, setScore] = useState(0);
