@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@babel/core": "^7.12.0",
+    "@emotion/babel-plugin": "^11.9.2",
+    "@parcel/optimizer-data-url": "2.6.2",
+    "@parcel/transformer-inline-string": "2.6.2",
+    "parcel": "^2.6.2",
+    "process": "^0.11.10",
+    "sharp": "^0.29.1"
+  },
+  "targets": {
+    "default": {
+      "distDir": "../Assets/Alacrity/Demo/Html"
+    }
+  },
+  "browserslist": "since 2015",
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@react-spring/web": "^9.7.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
